@@ -1,1 +1,1 @@
-# Pjt-Modelagem_Analática
+# Pjt-Modelagem_Analítica
